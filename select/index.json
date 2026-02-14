@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "卒業写真",
+  "base_artist": "Yumi Arai",
+  "createdAt": "2026-02-14T03:18:12.392676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/01_卒業写真_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "Hi‐Fi Set",
+      "has_synced": true,
+      "path": "select/02_卒業写真_Hi‐Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/03_卒業写真_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/04_卒業写真_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/05_卒業写真_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_卒業写真_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/07_卒業写真_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "卒業写真 - Graduation Photograph / Sotsugyou Shashin",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/08_卒業写真_-_Graduation_Photograph___Sotsugyou_Shashin_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/09_卒業写真_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "ハイ・ファイ・セット",
+      "has_synced": true,
+      "path": "select/10_卒業写真_ハイ・ファイ・セット.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/11_卒業写真_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "卒業写真",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/12_卒業写真_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "卒業写真/ハイ・ファイ・セット",
+      "artist": "ハイ・ファイ・セット",
+      "has_synced": true,
+      "path": "select/13_卒業写真_ハイ・ファイ・セット_ハイ・ファイ・セット.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_01_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_02_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_03_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_04_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_05_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_06_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_07_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_08_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_09_卒業写真_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "卒業写真",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_10_卒業写真_荒井_由実.txt"
+    }
+  ]
+}
